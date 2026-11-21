@@ -1,0 +1,66 @@
+# 🧠 NEUROSCIENCE & BRAIN-COMPUTER INTERFACE RESEARCH
+
+<p align="center">
+  <b>Understanding the Brain. Connecting Biology with Technology.</b>
+</p>
+
+---
+
+## 🔬 Research Overview
+
+This division explores the human brain, nervous system, neural signals, and technologies that connect biological systems with computers.
+
+The goal is to understand how the brain works and explore how brain-computer interfaces can enable new forms of human-computer interaction.
+
+## 🧬 Research Areas
+
+| Field | Focus |
+|---|---|
+| 🧠 Neuroscience | Brain structure and function |
+| ⚡ Neural Signals | Electrical activity of neurons |
+| 🔌 Brain-Computer Interfaces | Communication between brain and computers |
+| 📊 EEG Analysis | Understanding brainwave signals |
+| 🤖 Computational Neuroscience | Mathematical models of neural systems |
+| 🧪 Cognitive Science | Learning, memory, and perception |
+| 🦾 Neurotechnology | Technology interacting with the nervous system |
+
+## 🎯 Research Objectives
+
+- Study the fundamentals of neuroscience.
+- Understand neurons and neural communication.
+- Explore EEG signals and brainwave patterns.
+- Learn the principles of brain-computer interfaces.
+- Experiment with neural signal processing.
+- Investigate the relationship between AI and neuroscience.
+
+## 🧪 Experiments & Investigations
+
+Experiments and learning projects will be documented here.
+
+Each investigation should include:
+- Research question
+- Background and references
+- Methodology
+- Equipment and software
+- Observations and results
+- Limitations and future improvements
+
+## 🛠️ Technologies & Tools
+
+- Python
+- NumPy
+- SciPy
+- Matplotlib
+- MNE-Python
+- OpenBCI tools
+- Machine Learning
+
+## 🚀 Long-Term Research Direction
+
+To explore technologies that allow humans and machines to communicate through neural signals, while studying the scientific, ethical, and practical challenges of brain-computer interfaces.
+
+---
+
+<p align="center">
+  <i>Exploring the human mind. Expanding the boundaries of technology.</i>
+</p>
